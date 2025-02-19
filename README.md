@@ -64,6 +64,8 @@
 
 ### Нативные
 
+* https://github.com/philfung/add-to-homescreen
+
 * https://github.com/ProgressiveWebComponents/pwa-install
   * https://npmjs.com/package/@progressivewebcomponents/pwa-install
   * https://pwa-install.web.app/vanilla/
