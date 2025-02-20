@@ -60,11 +60,9 @@
 * https://play.google.com/store/apps/details?id=dev.conn.assetlinkstool
 * https://github.com/web-push-libs/
 
-## Полезные веб-компоненты
+## Полезные компоненты и библиотеки
 
-### Нативные
-
-* https://github.com/philfung/add-to-homescreen
+### Web Components
 
 * https://github.com/ProgressiveWebComponents/pwa-install
   * https://npmjs.com/package/@progressivewebcomponents/pwa-install
@@ -83,6 +81,10 @@
 ### React
 
 * https://github.com/chrisdancee/react-ios-pwa-prompt
+
+### JS
+
+* https://github.com/philfung/add-to-homescreen
 
 ## Обучающие курсы по PWA (на английском)
 
